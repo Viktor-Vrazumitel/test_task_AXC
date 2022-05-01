@@ -1,0 +1,6 @@
+export const SINGIN = "SINGIN";
+export const GETPEOPLE = "GETPEOPLE";
+export const ENABLE_LOADER = "ENABLE_LOADER";
+export const DISABLE_LOADER = "DISABLE_LOADER";
+export const ERROR_UNAVTORIZ = "ERROR_UNAVTORIZ";
+export const USERIN_AVTORIZ = "USERIN_AVTORIZ";
